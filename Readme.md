@@ -13,9 +13,8 @@ Color Flipper is a simple JavaScript project that generates random colors and di
 2. Open `index.html` in a web browser.
 
 ## Usage
-1. Click the "Flip Color" button to generate a new random color.
+1. Click the "click me" button to generate a new random color.
 2. The hexadecimal color code is displayed below the button.
-3. Optionally, click the "Copy to Clipboard" button to copy the color code.
 
 ## Technologies Used
 - HTML
@@ -23,5 +22,4 @@ Color Flipper is a simple JavaScript project that generates random colors and di
 - JavaScript
 
 ## Author
-- Mouhamed Diouf
-- seydiahmedelcheikh@gmail.com
+https://www.youtube.com/watch?v=3PHXvlpOkf4&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=5
